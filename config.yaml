@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://hugopmtest.vercel.app/
 theme: PaperMod
 title: Hello World
 sectionPagesMenu: 'main'
