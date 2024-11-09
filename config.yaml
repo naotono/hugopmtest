@@ -1,0 +1,10 @@
+baseURL: http://localhost:1313/
+theme: PaperMod
+title: Hello World
+sectionPagesMenu: 'main'
+
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
